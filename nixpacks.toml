@@ -1,5 +1,5 @@
 [phases.install]
-cmds = ["yarn install"]
+cmds = ["yarn install --force"]
 
 [phases.build]
 cmds = ["yarn build"]
